@@ -1,8 +1,8 @@
 # Nombre completo
-name: "Nombre Apellido1 Apellido2"
+name: "Marco González"
  
 # Apodo, o sólo cómo te gusta que te digan
-nickname: "Nombre"
+nickname: "Markechy"
  
 # Saludo inicial antes de tu apodo
 greeting: "Hi, I am"
@@ -22,7 +22,7 @@ contactInfo:
  
 # Descripción de ti
 summary:
-  - I am a Data Scientist
+  - I am a Developer
   - I am a ...
   - I am a ...
   - I am a ...
